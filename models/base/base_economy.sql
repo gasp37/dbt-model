@@ -1,5 +1,3 @@
-13 lines (10 sloc)  255 Bytes
-
 with base_economy as (
 
     select 
